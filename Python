@@ -4,7 +4,7 @@ import logging
 
 # --- Configuration ---
 # 1. BotFather se mila hua Token yahaan daalein
-TOKEN = "YOUR_BOT_TOKEN_HERE" 
+TOKEN = "8264730081:AAFTyidB2gLyebRmufVW1JW1vY1HBUOicJ8" 
 
 # 2. Apni hosted website ka URL yahaan daalein 
 #    Yeh woh link hai jahan aapki index.html file host hogi.
